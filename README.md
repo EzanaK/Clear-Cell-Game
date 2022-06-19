@@ -1,2 +1,4 @@
-# Clear Cell Game
-Created a clear cell game
+# Skills Practiced
+- Two-dimensional arrays
+- Abstract classes
+- Test development
