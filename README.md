@@ -1,2 +1,2 @@
-# Clear-Cell-Game
+# Clear Cell Game
 Created a clear cell game
